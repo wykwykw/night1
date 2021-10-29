@@ -39,6 +39,7 @@ users:
       abnormalReason: ''
       # 是否检查表单的标题（1代表检查，0代表不检查）
       checkTitle: 1
+      isOffset: true      
       # 表单信息
       forms:
         - form:
@@ -73,6 +74,7 @@ users:
       abnormalReason: ''
       # 是否检查表单的标题（1代表检查，0代表不检查）
       checkTitle: 1
+      isOffset: true      
       # 表单信息
       forms:
         - form:
@@ -107,6 +109,7 @@ users:
       abnormalReason: ''
       # 是否检查表单的标题（1代表检查，0代表不检查）
       checkTitle: 1
+      isOffset: true      
       # 表单信息
       forms:
         - form:
@@ -141,6 +144,7 @@ users:
       abnormalReason: ''
       # 是否检查表单的标题（1代表检查，0代表不检查）
       checkTitle: 1
+      isOffset: true      
       # 表单信息
       forms:
         - form:
